@@ -1,6 +1,5 @@
 
 # Basic writing and format syntax
-
 ## Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 Kristov Hernandez 9-Gonzalez
 
