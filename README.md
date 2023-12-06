@@ -48,8 +48,10 @@ To attach a file to an issue or pull request conversation, drag and drop it into
 **Maximum file sizes**
 
     -10MB for images and gifs
-    -10MB for videos uploaded to a repository owned by a user or organization on a free GitHub plan
-    -100MB for videos uploaded to a repository owned by a user or organization on a paid GitHub plan
+    -10MB for videos uploaded to a repository owned by a user or organization on a free 
+    GitHub plan
+    -100MB for videos uploaded to a repository owned by a user or organization on a 
+    paid GitHub plan
     -25MB for all other files
 
 >NOTE
