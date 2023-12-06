@@ -8,8 +8,7 @@ You can display an image by adding ! and wrapping the alt text in [ ]. Alt text 
 
 
 > [!NOTE]
-> By adding, you can see an image! and enclosing the alternative text with []. An alt text entry is a succinct written representation of the image's content. Next, include the image's URL in parenthesis ()
-
+> Be mindful about your capitalizations 
 
   
 
