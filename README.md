@@ -1,5 +1,8 @@
+
 # ATENEO DE NAGA JUNIOR HIGHSCHOOL
 Kristov Hernandez 9-Gonzalez
+
+theme: jekyll-theme-modernist
 
 ## Adding images to your website
 You can display an image by adding ! and wrapping the alt text in [ ]. Alt text is a short text equivalent of the information in the image. Then, wrap the link for the image in parentheses ()
